@@ -6,13 +6,13 @@ public class UnaryOp {
         int e = -10;
 
         d++;
-        System.out.println(d);
+        System.out.println(d); // Output: 101
 
         d--;
-        System.out.println(d);
+        System.out.println(d); // Output: 100
 
-        System.out.println(true);
-
+        System.out.println(e); // Output: -10
+        
     }
-    
+
 }
