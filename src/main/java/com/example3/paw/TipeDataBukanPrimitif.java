@@ -3,7 +3,7 @@ package com.example3.paw;
 public class TipeDataBukanPrimitif {
      public static void main(String[] args) {
         // Tipe data bukan primitif String
-        String name = "Aldi Septiyanto";
+        String name = "Hari Wahyu Ramadhan";
 
         // Tipe data bukan primitif Integer
         Integer age = Integer.valueOf(22); // atau bisa ditulis sebagai Integer age = 30;

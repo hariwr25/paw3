@@ -9,7 +9,7 @@ public class WhileDo {
         counter++; 
     } while (counter <= 10);
     
-       
+         
     }
 }
 
